@@ -55,6 +55,12 @@ body {
 .wd-article-heading {
   color: white;
 }
+.wd-glas{
+  position:absolute;
+  left:40px;
+  top: 33px;
+  
+}
 .wd-article-toside {
   width: 70%;
 }
