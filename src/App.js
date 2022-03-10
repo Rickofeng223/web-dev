@@ -10,7 +10,6 @@ import Labs from "./components/Labs"; // imports Labs.js
 import Tuiter from "./components/Tuiter"; // imports Tuiter.js
 import HomeScreen from "./components/Tuiter/HomeScreen/HomeScreen";
 import ExploreScreen from "./components/Tuiter/ExploreScreen/ExploreScreen";
-import HomeScreen1 from "./components/Tuiter/HomeScreen/HomeScreen";
 
 function App() {
   return (
