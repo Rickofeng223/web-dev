@@ -1,6 +1,6 @@
 import axios from 'axios';
-const API_BASE = process.env.WEB_MONGO_A9;
-//const API_BASE = `https://web-dev-a9.herokuapp.com/api`;
+//const API_BASE = process.env.WEB_MONGO_A9;
+const API_BASE = `https://web-dev-a9.herokuapp.com/api`;
 console.log(API_BASE);
 
 const TUITS_API = `${API_BASE}/tuits`;
