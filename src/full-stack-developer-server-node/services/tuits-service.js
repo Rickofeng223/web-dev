@@ -2,7 +2,7 @@ import axios from 'axios';
 //const API_BASE = process.env.WEB_MONGO_A9;
 //const API_BASE = `https://web-dev-a9.herokuapp.com/api`;
 //console.log(API_BASE);
-const API_BASE = process.env.WEB_MONGO_A9;
+const API_BASE = process.env.REACT_APP_API_BASE;
 console.log(API_BASE);
 const TUITS_API = `${API_BASE}/tuits`;
 //const TUITS_API = 'https://spring-web-dev-server.herokuapp.com/api/tuits';
